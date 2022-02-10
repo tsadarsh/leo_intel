@@ -12,7 +12,7 @@
   </asset>
   <library_images>
     <image id="realsense_r200_tex" name="realsense_r200_tex">
-      <init_from>../materials/textures/realsense_r200_tex.png</init_from>
+      <init_from>realsense_r200_tex.png</init_from>
     </image>
   </library_images>
   <library_effects>
