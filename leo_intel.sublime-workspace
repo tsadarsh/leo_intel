@@ -525,10 +525,7 @@
 			{
 				"buffer_size": 758,
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "/home/adarshts/catkin_ws/src/leo_simulator/leo_gazebo/launch/spawn_robot.launch",
@@ -564,17 +561,195 @@
 		},
 		{
 			"file": "/home/adarshts/catkin_ws/src/leo_simulator/leo_gazebo/launch/spawn_controllers.launch",
+			"redo_stack":
+			[
+				[
+					50,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAEMCAAAAAAAAQwIAAAAAAAAFAAAAPCEtLSDPAgAAAAAAAM8CAAAAAAAABAAAACAtLT4",
+					"AQAAAAAAAAABAAAA1AIAAAAAAABIAgAAAAAAAAAAAAAAAPC/"
+				]
+			],
 			"settings":
 			{
-				"buffer_size": 699,
+				"buffer_size": 970,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEoBAAAAAAAASwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"reindent",
+					null,
+					"AQAAAEsBAAAAAAAATwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAE8BAAAAAAAAewEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAIUBAAAAAAAAhgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQEAAAAAAACFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPEBAAAAAAAA8QEAAAAAAAABAAAAPvABAAAAAAAA8AEAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAA8gEAAAAAAADyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAPABAAAAAAAA8QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AEAAAAAAADwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIUBAAAAAAAAhQEAAAAAAAABAAAAPg",
+					"AQAAAAAAAAABAAAAhgEAAAAAAACGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAPABAAAAAAAA8QEAAAAAAAAAAAAA8QEAAAAAAAD7AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AEAAAAAAADwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"paste",
+					null,
+					"AQAAAPsBAAAAAAAANQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wEAAAAAAAD7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "\n<"
+					},
+					"AwAAADUCAAAAAAAANgIAAAAAAAAAAAAANgIAAAAAAABAAgAAAAAAAAAAAABAAgAAAAAAAEECAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQIAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AwAAAEECAAAAAAAARwIAAAAAAAAAAAAANgIAAAAAAAA2AgAAAAAAAAoAAAAgICAgICAgICAgNgIAAAAAAAA+AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQIAAAAAAABBAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					2,
+					"left_delete",
+					null,
+					"AgAAADwCAAAAAAAAPAIAAAAAAAACAAAAICA6AgAAAAAAADoCAAAAAAAAAgAAACAg",
+					"AQAAAAAAAAABAAAAPgIAAAAAAAA+AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAEICAAAAAAAAQwIAAAAAAAAAAAAAQwIAAAAAAABEAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgIAAAAAAABCAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"paste",
+					null,
+					"AQAAAEMCAAAAAAAALAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwIAAAAAAABDAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					36,
+					1,
+					"indent",
+					null,
+					"AgAAAEMCAAAAAAAARQIAAAAAAAAAAAAA0AIAAAAAAADSAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAMAAAAAAABDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					2,
+					"left_delete",
+					null,
+					"AgAAANACAAAAAAAA0AIAAAAAAABgAAAAICA8bm9kZSBuYW1lPSJyb2JvdF9zdGF0ZV9wdWJsaXNoZXIiIHBrZz0icm9ib3Rfc3RhdGVfcHVibGlzaGVyIiB0eXBlPSJyb2JvdF9zdGF0ZV9wdWJsaXNoZXIiIC8+zwIAAAAAAADPAgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAMAMAAAAAAADQAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		},
 		{
 			"file": "/opt/ros/noetic/share/leo_description/urdf/macros.xacro",
+			"redo_stack":
+			[
+				[
+					58,
+					1,
+					"left_delete",
+					null,
+					"AgAAANESAAAAAAAA0hIAAAAAAAAAAAAA0hIAAAAAAADTEgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0RIAAAAAAADREgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"left_delete",
+					null,
+					"DAAAANMSAAAAAAAA1BIAAAAAAAAAAAAA1BIAAAAAAADVEgAAAAAAAAAAAADVEgAAAAAAANYSAAAAAAAAAAAAANYSAAAAAAAA1xIAAAAAAAAAAAAA1xIAAAAAAADYEgAAAAAAAAAAAADYEgAAAAAAANkSAAAAAAAAAAAAANkSAAAAAAAA2hIAAAAAAAAAAAAA2hIAAAAAAADbEgAAAAAAAAAAAADbEgAAAAAAANwSAAAAAAAAAAAAANwSAAAAAAAA3RIAAAAAAAAAAAAA3RIAAAAAAADeEgAAAAAAAAAAAADeEgAAAAAAAN8SAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0xIAAAAAAADTEgAAAAAAAAAAAAAAAPC/"
+				]
+			],
 			"settings":
 			{
-				"buffer_size": 17670,
+				"buffer_size": 17679,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -586,7 +761,7 @@
 					"left_delete",
 					null,
 					"AQAAABc+AAAAAAAAFz4AAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAAGD4AAAAAAAAYPgAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYPgAAAAAAABg+AAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					14,
@@ -596,7 +771,7 @@
 						"characters": "\n\n\n"
 					},
 					"AwAAAMAsAAAAAAAAwSwAAAAAAAAAAAAAwSwAAAAAAADCLAAAAAAAAAAAAADCLAAAAAAAAMMsAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAwCwAAAAAAADALAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADALAAAAAAAAMAsAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					19,
@@ -606,7 +781,7 @@
 						"block": false
 					},
 					"AgAAAL8sAAAAAAAAwywAAAAAAAAAAAAAtSYAAAAAAAC6JgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAvywAAAAAAAC1JgAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC/LAAAAAAAALUmAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					24,
@@ -614,7 +789,7 @@
 					"paste",
 					null,
 					"AQAAAMosAAAAAAAA5TIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAyiwAAAAAAADKLAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKLAAAAAAAAMosAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					30,
@@ -622,7 +797,7 @@
 					"indent",
 					null,
 					"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",
-					"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"
+					"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"
 				],
 				[
 					43,
@@ -630,7 +805,7 @@
 					"paste",
 					null,
 					"AgAAAOEsAAAAAAAA+ywAAAAAAAAAAAAA+ywAAAAAAAD7LAAAAAAAAAwAAAAke2xpbmtfbmFtZX0",
-					"AQAAAAAAAAABAAAA4SwAAAAAAADtLAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhLAAAAAAAAO0sAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					60,
@@ -640,7 +815,7 @@
 						"characters": "leo"
 					},
 					"BAAAABItAAAAAAAAEy0AAAAAAAAAAAAAEy0AAAAAAAATLQAAAAAAAAwAAAAke2xpbmtfbmFtZX0TLQAAAAAAABQtAAAAAAAAAAAAABQtAAAAAAAAFS0AAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAEi0AAAAAAAAeLQAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASLQAAAAAAAB4tAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					63,
@@ -648,7 +823,15 @@
 					"paste",
 					null,
 					"AgAAAIwuAAAAAAAAhjMAAAAAAAAAAAAAhjMAAAAAAACGMwAAAAAAAOQEAAAgICAgICAgIDxwbHVnaW4gbmFtZT0iJHtsaW5rX25hbWV9X2NvbnRyb2xsZXIiIGZpbGVuYW1lPSJsaWJnYXplYm9fcm9zX29wZW5uaV9raW5lY3Quc28iPgogICAgICAgICAgPGJhc2VsaW5lPjAuMjwvYmFzZWxpbmU+CiAgICAgICAgICA8YWx3YXlzT24+dHJ1ZTwvYWx3YXlzT24+CiAgICAgICAgICA8dXBkYXRlUmF0ZT4xLjA8L3VwZGF0ZVJhdGU+CiAgICAgICAgICA8Y2FtZXJhTmFtZT4ke2NhbWVyYV9uYW1lfV9pcjwvY2FtZXJhTmFtZT4KICAgICAgICAgIDxpbWFnZVRvcGljTmFtZT4vJHtjYW1lcmFfbmFtZX0vY29sb3IvaW1hZ2VfcmF3PC9pbWFnZVRvcGljTmFtZT4KICAgICAgICAgIDxjYW1lcmFJbmZvVG9waWNOYW1lPi8ke2NhbWVyYV9uYW1lfS9jb2xvci9jYW1lcmFfaW5mbzwvY2FtZXJhSW5mb1RvcGljTmFtZT4KICAgICAgICAgIDxkZXB0aEltYWdlVG9waWNOYW1lPi8ke2NhbWVyYV9uYW1lfS9kZXB0aC9pbWFnZV9yYXc8L2RlcHRoSW1hZ2VUb3BpY05hbWU+CiAgICAgICAgICA8ZGVwdGhJbWFnZUluZm9Ub3BpY05hbWU+LyR7Y2FtZXJhX25hbWV9L2RlcHRoL2NhbWVyYV9pbmZvPC9kZXB0aEltYWdlSW5mb1RvcGljTmFtZT4KICAgICAgICAgIDxwb2ludENsb3VkVG9waWNOYW1lPi8ke2NhbWVyYV9uYW1lfS9kZXB0aC9wb2ludHM8L3BvaW50Q2xvdWRUb3BpY05hbWU+CiAgICAgICAgICA8ZnJhbWVOYW1lPiR7ZnJhbWVfbmFtZX08L2ZyYW1lTmFtZT4KICAgICAgICAgIDxwb2ludENsb3VkQ3V0b2ZmPjAuNTwvcG9pbnRDbG91ZEN1dG9mZj4KICAgICAgICAgIDxwb2ludENsb3VkQ3V0b2ZmTWF4PjMuMDwvcG9pbnRDbG91ZEN1dG9mZk1heD4KICAgICAgICAgIDxkaXN0b3J0aW9uSzE+MC4wMDAwMDAwMTwvZGlzdG9ydGlvbksxPgogICAgICAgICAgPGRpc3RvcnRpb25LMj4wLjAwMDAwMDAxPC9kaXN0b3J0aW9uSzI+CiAgICAgICAgICA8ZGlzdG9ydGlvbkszPjAuMDAwMDAwMDE8L2Rpc3RvcnRpb25LMz4KICAgICAgICAgIDxkaXN0b3J0aW9uVDE+MC4wMDAwMDAwMTwvZGlzdG9ydGlvblQxPgogICAgICAgICAgPGRpc3RvcnRpb25UMj4wLjAwMDAwMDAxPC9kaXN0b3J0aW9uVDI+CiAgICAgICAgICA8Q3hQcmltZT4wPC9DeFByaW1lPgogICAgICAgICAgPEN4PjA8L0N4PgogICAgICAgICAgPEN5PjA8L0N5PgogICAgICAgICAgPGZvY2FsTGVuZ3RoPjA8L2ZvY2FsTGVuZ3RoPgogICAgICAgICAgPGhhY2tCYXNlbGluZT4wPC9oYWNrQmFzZWxpbmU+CiAgICAgICAgPC9wbHVnaW4+",
-					"AQAAAAAAAAABAAAAcDMAAAAAAACMLgAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABwMwAAAAAAAIwuAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AgAAAIsxAAAAAAAAnzEAAAAAAAAAAAAAnzEAAAAAAACfMQAAAAAAAAsAAABjYW1lcmFfbGluaw",
+					"AQAAAAAAAAABAAAAizEAAAAAAACWMQAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -693,6 +876,8 @@
 	},
 	"file_history":
 	[
+		"/opt/ros/noetic/share/leo_description/urdf/macro-org.xacro",
+		"/opt/ros/noetic/share/leo_description/urdf/macros-org.xacro",
 		"/home/adarshts/catkin_ws/src/leo_intel/worlds/leo3.world",
 		"/home/adarshts/.gazebo/models/intel_realsense_custom/model.config",
 		"/home/adarshts/.gazebo/models/intel_realsense_custom/model.sdf",
@@ -818,9 +1003,7 @@
 		"/home/adarshts/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_burger/model.sdf",
 		"/home/adarshts/catkin_ws/src/sim-for-rover21/sim-for-rover21/launch/testworld_world.launch",
 		"/home/adarshts/catkin_ws/src/sim-for-rover21/roverurf_2dnav/config/base_local_planner_params.yaml",
-		"/home/adarshts/catkin_ws/src/sim-for-rover21/sim-for-rover21/launch/marsyard_world.launch",
-		"/home/adarshts/gh/switter/yourbookmarks.md",
-		"/home/adarshts/catkin_ws/src/sim-for-rover21/roverurf/config/joint_names_roverurf.yaml"
+		"/home/adarshts/catkin_ws/src/sim-for-rover21/sim-for-rover21/launch/marsyard_world.launch"
 	],
 	"find":
 	{
@@ -838,6 +1021,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"footprint_link",
+			"rocker",
 			"base_footprint",
 			"base_link",
 			"vis",
@@ -919,7 +1104,6 @@
 				{
 					"buffer": 0,
 					"file": "/home/adarshts/catkin_ws/src/leo_simulator/leo_gazebo/launch/leo_gazebo.launch",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -944,7 +1128,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 6,
 					"stack_multiselect": false,
 					"type": "text"
 				},
@@ -975,7 +1159,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 4,
 					"stack_multiselect": false,
 					"type": "text"
 				},
@@ -1003,10 +1187,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 232.0,
+						"translation.y": 252.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				},
@@ -1037,7 +1221,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				},
@@ -1075,18 +1259,19 @@
 				{
 					"buffer": 5,
 					"file": "/home/adarshts/catkin_ws/src/leo_simulator/leo_gazebo/launch/spawn_controllers.launch",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 699,
+						"buffer_size": 970,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								645,
-								645
+								758,
+								758
 							]
 						],
 						"settings":
@@ -1099,7 +1284,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
@@ -1109,15 +1294,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 17670,
+						"buffer_size": 17679,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13190,
-								13190
+								4831,
+								4831
 							]
 						],
 						"settings":
@@ -1127,7 +1312,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 11463.0,
+						"translation.y": 4331.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
